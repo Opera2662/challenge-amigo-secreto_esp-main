@@ -25,5 +25,3 @@ No se necesitan dependencias externas. Basta con abrir `index.html` en cualquier
 
 ## Autor
 Este proyecto fue desarrollado para aprender sobre manipulación del DOM con JavaScript.
-
-¡Diviértete con tu sorteo de Amigo Secreto! 🎉
